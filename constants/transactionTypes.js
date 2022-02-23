@@ -1,0 +1,4 @@
+const TRANSACTION_TYPE_CASH_IN = 'cash_in'
+const TRANSACTION_TYPE_CASH_OUT = 'cash_out'
+
+module.exports = { TRANSACTION_TYPE_CASH_IN, TRANSACTION_TYPE_CASH_OUT }
